@@ -1,1 +1,1 @@
-# ios-kurie-web
+# ios-curie-web
